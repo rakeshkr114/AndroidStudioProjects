@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DummyPhone</string>
+    <string name="tv_message">I am just kidding! I cannot really place a call.</string>
+</resources>

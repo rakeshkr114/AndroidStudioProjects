@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImplicitIntents</string>
+    <string name="btn_call">Place a call</string>
+    <string name="btn_call_friend">Call best friend</string>
+    <string name="btn_map">Show Map</string>
+    <string name="btn_web">Go to Facebook.com</string>
+</resources>

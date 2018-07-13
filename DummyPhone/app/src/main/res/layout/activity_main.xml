@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvMessage"
+        android:layout_width="match_parent"
+        android:layout_height="67dp"
+        android:layout_margin="15dp"
+        android:text="@string/tv_message"
+        android:textColor="@android:color/background_dark"
+        android:textStyle="bold"
+        android:visibility="visible"
+        tools:text="@string/tv_message" />
+</LinearLayout>
