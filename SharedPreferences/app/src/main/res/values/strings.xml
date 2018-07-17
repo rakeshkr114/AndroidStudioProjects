@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="et_name_hint">Enter Your Name</string>
+    <string name="tv_message">Welcome message will be displayed here...</string>
+</resources>
