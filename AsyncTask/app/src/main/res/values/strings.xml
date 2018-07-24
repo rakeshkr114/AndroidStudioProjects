@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="et_number_hint">Enter a number</string>
+    <string name="tv_result_hint">Results will be displayed here!</string>>
+    <string name="btn_roll_dice">Roll Dice</string>
+</resources>
