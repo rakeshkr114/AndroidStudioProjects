@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SendSMS</string>
+    <string name="message_hint">Enter your message</string>
+    <string name="tel_hint">Enter telephone number</string>
+</resources>
