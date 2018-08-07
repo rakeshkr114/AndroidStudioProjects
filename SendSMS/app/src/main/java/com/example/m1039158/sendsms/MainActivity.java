@@ -109,7 +109,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onPause() {
         super.onPause();
-        
+
         // Unregister receivers when moving out of the activity
         unregisterReceiver(smsDeliveredReceiver);
         unregisterReceiver(smsSentReceiver);
